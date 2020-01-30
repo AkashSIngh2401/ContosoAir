@@ -4,7 +4,7 @@
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
-Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
+Runs on Python  (3.7) that stores customer booked flights in a CosmosDb database. It is to be modified by Hanu.
 
 ## Requirements
 
