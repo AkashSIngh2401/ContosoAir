@@ -8,7 +8,7 @@ Runs on Python  (3.7) that stores customer booked flights in a CosmosDb database
 
 ## Requirements
 
-* Node v8.9.4 or later
+* python 3.7 or later
 * Azure CosmosDb
 
 ## Local Environment Setup
